@@ -128,7 +128,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **Tech World** - Original creator of this cursor theme
+- **Surjo Live** - Original creator of this cursor theme
 - **Microsoft** - For the Windows cursor framework
 - **GitHub Community** - For supporting open source projects
 
@@ -155,7 +155,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **[⬆️ Back to Top](#-mini-mouse-cursor---minimalist-windows-cursor-theme)**
 
-Made with ❤️ by [Tech World](https://www.youtube.com/channel/UCzfZO3XvmmR66bKcpJuh8Dg/featured?view_as=subscriber)
+Made with ❤️ by [Surjo Live](https://youtube.com/@issurjolive?si=2_67v2I9Uvj5Zfd3)
 
 *If you find this cursor theme helpful, please consider giving it a ⭐ star!*
 

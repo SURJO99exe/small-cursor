@@ -120,7 +120,7 @@ If you encounter issues:
 1. **Check** [Troubleshooting Guide](#-troubleshooting)
 2. **Search** [Existing Issues](https://github.com/SURJO99exe/small-cursor/issues)
 3. **Create** [New Issue](https://github.com/SURJO99exe/small-cursor/issues/new)
-4. **Contact** [Tech World YouTube](https://www.youtube.com/channel/UCzfZO3XvmmR66bKcpJuh8Dg/featured?view_as=subscriber)
+4. **Contact** [Surjo Live](https://youtube.com/@issurjolive?si=2_67v2I9Uvj5Zfd3) • [Facebook](https://www.facebook.com/surjoislive)
 
 ---
 
